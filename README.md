@@ -16,9 +16,4 @@
 
 
 
-#### 上代码
-
-```
-https://github.com/liushprofessor/BitMapFilter
-```
 
